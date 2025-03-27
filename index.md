@@ -35,7 +35,7 @@ In addition, this workshop introduces participants to core techniques in:
 ---
 
 ## 📂 Repository Resources
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+- Open the Educational_Chatbots Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/noorhanabbas/RAGChatbots_Workshop2025/blob/main/Notebooks/Educational_Chatbots.ipynb)
 - [Explore the Code on GitHub](https://github.com/noorhanabbas/RAGChatbots_Workshop2025)
 - [Coming Soon: Live Chatbot on Hugging Face Spaces](#)
