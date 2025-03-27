@@ -10,25 +10,17 @@ This workshop is designed to equip participants with the practical skills needed
 
 By the end of the workshop, you will be able to:
 
-Develop a chatbot that uses educator-provided teaching materials (PDFs) as its knowledge base
+- Develop a chatbot that uses educator-provided teaching materials (PDFs) as its knowledge base
+- Automatically generate a fully deployable chatbot application using Streamlit
+- Integrate quantised Hugging Face models to run the chatbot efficiently in the browser
+- Control the complexity level of responses and display source references for transparency
 
-Automatically generate a fully deployable chatbot application using Streamlit
+In addition, this workshop introduces participants to core techniques in:
 
-Integrate quantised Hugging Face models to run the chatbot efficiently in the browser
-
-Control the complexity level of responses and display source references for transparency
-
-In addition, this workshop introduces students to core techniques in:
-
-Prompt engineering
-
-Retrieval-Augmented Generation (RAG)
-
-Working with Large Language Models (LLMs)
-
-Building front-end interfaces using the Streamlit API
-
-
+- Prompt engineering
+- Retrieval-Augmented Generation (RAG)
+- Working with Large Language Models (LLMs)
+- Building front-end interfaces using the Streamlit API
 ---
 
 ## 🧰 Technologies Used
@@ -51,12 +43,12 @@ Building front-end interfaces using the Streamlit API
 
 ## 🛠️ How the System Works
 
-Based on your inputs (PDF files, preferred complexity, etc.), the generator automatically creates:
+Based on the educators' inputs (PDF files, preferred complexity, etc.), the generator automatically creates:
 - `app.py`: A Streamlit-based chatbot app
 - `requirements.txt`: List of dependencies
 - Your uploaded PDFs as the chatbot’s knowledge base
 
-You also get:
+They also get:
 - A **setup manual** for getting API tokens, configuring hardware on Hugging Face Spaces, and deploying the chatbot
 
 ---
