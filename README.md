@@ -70,14 +70,3 @@ The included guide walks educators through:
 
 ---
 
-## 📁 Repository Structure (Example)
-
-```bash
-📦 RAGChatbots_Workshop2025/
-│
-├── app.py                     # Streamlit chatbot script
-├── requirements.txt           # Project dependencies
-├── /notebooks                 # Jupyter Notebooks for demos
-├── /data                      # Example PDFs or text files
-├── README.md                  # This file
-└── index.md                   # GitHub Pages homepage
