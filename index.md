@@ -1,17 +1,33 @@
 # 🤖 RAG Chatbots Workshop 2025
 
 Welcome to the **RAG Chatbots Workshop 2025**!  
-This hands-on workshop empowers educators to build and deploy Retrieval-Augmented Generation (RAG)-based chatbots using their own PDF content.
+This hands-on workshop aims to build and deploy Retrieval-Augmented Generation (RAG)-based chatbots using educational PDF content on HuggingFace Spaces.
 
 ---
 
 ## 🎯 Workshop Overview
+This workshop is designed to equip participants with the practical skills needed to build and deploy intelligent educational chatbots using Retrieval-Augmented Generation (RAG).
 
-In this workshop, you’ll learn how to:
-- Build a chatbot that uses your teaching materials as its knowledge base
-- Automatically generate a deployable chatbot app using Streamlit
-- Use quantised Hugging Face models to run your chatbot in the browser
-- Control the response complexity and retrieve sources for transparency
+By the end of the workshop, you will be able to:
+
+Develop a chatbot that uses educator-provided teaching materials (PDFs) as its knowledge base
+
+Automatically generate a fully deployable chatbot application using Streamlit
+
+Integrate quantised Hugging Face models to run the chatbot efficiently in the browser
+
+Control the complexity level of responses and display source references for transparency
+
+In addition, this workshop introduces students to core techniques in:
+
+Prompt engineering
+
+Retrieval-Augmented Generation (RAG)
+
+Working with Large Language Models (LLMs)
+
+Building front-end interfaces using the Streamlit API
+
 
 ---
 
