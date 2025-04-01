@@ -1,7 +1,7 @@
 # 🤖 RAG Chatbots Workshop 2025
 
 Welcome to the **RAG Chatbots Workshop 2025**!  
-This hands-on workshop aims to build and deploy Retrieval-Augmented Generation (RAG)-based chatbots using educational PDF content on HuggingFace Spaces.
+This hands-on workshop aims to build and deploy Retrieval-Augmented Generation (RAG)-based chatbots using educational PDF content on HuggingFace Spaces.  This chatbot/assistant will be used as part of the Lingua Connect project.
 
 ---
 
@@ -81,4 +81,4 @@ For questions or support:
 
 ---
 
-> 💡 This workshop is part of a 2025 educational initiative exploring the use of AI in student support and curriculum design.
+> 💡 The workshop is supported by the University of Leeds Libraries and the Digital and Open Education Incubator at the Leeds Institute for Teaching Excellence (LITE).
